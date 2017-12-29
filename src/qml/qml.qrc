@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>TouchArea.qml</file>
+        <file>BasicButton.qml</file>
+        <file>BasicComboBox.qml</file>
+    </qresource>
+</RCC>
